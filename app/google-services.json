@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "760919837823",
+    "firebase_url": "https://dental-management-system-2dccb-default-rtdb.firebaseio.com",
+    "project_id": "dental-management-system-2dccb",
+    "storage_bucket": "dental-management-system-2dccb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760919837823:android:16952071a5babac2cf434a",
+        "android_client_info": {
+          "package_name": "com.example.dentalmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760919837823-k5ph1bir9lo96at8do8cnl6gnc75buce.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dentalmobile",
+            "certificate_hash": "930511a0cf47ddbc08ab5a5dae3dd021ea0b1de7"
+          }
+        },
+        {
+          "client_id": "760919837823-s7knecc223lh2ibvsl4mrohfhhs3k6su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwXFzXiNRo_DHSJOQ2jy9j1-WOVnLnXYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760919837823-s7knecc223lh2ibvsl4mrohfhhs3k6su.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
